@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c247e68-924f-4db8-801f-523c85af5929" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bubble sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/bubble sort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.bubble sory">
     <configuration name="bubble sory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sorting algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,8 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.bubble sory" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.selection sort" />
       </list>
     </recent_temporary>
